@@ -3,6 +3,8 @@
 ## Overview
 The **Game of Sequence** is a fun and engaging memory challenge where players must remember and replicate a randomly generated sequence of highlighted buttons. Each successful round increases the complexity of the sequence, testing the player’s memory and focus. The game is built with HTML, CSS, and JavaScript, offering a visually appealing interface with responsive interactions.
 
+![Screenshot 2024-11-25 154047](https://github.com/user-attachments/assets/b32de027-d103-4fbd-a546-207df8179dbe)
+
 ---
 
 ## Features
@@ -11,6 +13,7 @@ The **Game of Sequence** is a fun and engaging memory challenge where players mu
 - **Score Tracking**: Displays the player's current score, allowing for self-improvement and competition.
 - **User Feedback**: Buttons visually highlight during the sequence and on player interactions, enhancing user experience.
 - **Restart Option**: Players can restart the game after losing to try again.
+- 
 
 ---
 
